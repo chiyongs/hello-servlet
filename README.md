@@ -7,4 +7,5 @@
 - HTTP 요청 데이터 - POST HTML Form
 
 21.03.26
-- HTTP 요청 데이터 - API 메시지 바디 - 단순 텍스트
+- HTTP 요청 데이터 - API 메시지 바디 - 단순 텍스
+- HTTP 요청 데이터 - API 메시지 바디 - JSON
