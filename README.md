@@ -9,3 +9,4 @@
 21.03.26
 - HTTP 요청 데이터 - API 메시지 바디 - 단순 텍스
 - HTTP 요청 데이터 - API 메시지 바디 - JSON
+- HttpServletResponse - 기본 사용법
