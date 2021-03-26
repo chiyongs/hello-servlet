@@ -11,3 +11,4 @@
 - HTTP 요청 데이터 - API 메시지 바디 - JSON
 - HttpServletResponse - 기본 사용법
 - HTTP 응답 데이터 - 단순 텍스트, HTML
+- HTTP 응답 데이터 - API JSON
