@@ -12,3 +12,6 @@
 - HttpServletResponse - 기본 사용법
 - HTTP 응답 데이터 - 단순 텍스트, HTML
 - HTTP 응답 데이터 - API JSON
+
+21.03.27
+- 회원 관리 웹 애플리케이션 요구사항
